@@ -1,0 +1,15 @@
+*{
+
+}
+
+header{
+  width:300px;
+  height:auto;
+  color: red;
+  background-color: yellow;
+  text-align: center;
+}
+
+header a{
+  color:blue;
+}
